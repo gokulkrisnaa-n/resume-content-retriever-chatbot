@@ -1,0 +1,50 @@
+GOKUL KRISNAA NATTARAYAN
+Houston, TX | (943) 238-4404 | gokulkrisnaa.n@gmail.com | LinkedIn
+PROFESSIONAL SUMMARY
+Detail-oriented Data Analyst with 2+ years of professional experience transforming complex datasets into actionable business insights using SQL, Python, and Excel. Proven ability to build interactive dashboards in Tableau and Power BI, identify trends and patterns across large datasets, and communicate findings clearly to cross-functional stakeholders. Currently completing an M.S. in Data Science with a 3.78 GPA, combining strong analytical foundations with hands-on experience in statistical analysis, predictive modeling, and data storytelling. Passionate about turning data into decisions that drive measurable impact.
+TECHNICAL SKILLS
+•	Data Analysis & Querying: SQL (MySQL, SQL Server, BigQuery), Advanced Excel (PivotTables, VLOOKUP, Power Query), Python (Pandas, NumPy, scikit-learn), R
+•	Data Visualization & BI: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Streamlit, interactive reporting, executive storytelling
+•	Statistical & Analytical Methods: Exploratory Data Analysis (EDA), A/B Testing, Hypothesis Testing, Regression, Time-Series Forecasting (ARIMA), Factor Analysis, KPI Definition
+•	Data Engineering & Cloud: Databricks, PySpark, Hadoop, ETL pipelines, data cleaning & wrangling, Git/GitHub
+•	Machine Learning & AI: Predictive Modeling, Classification, Clustering, LSTM, NLP, LLM Prompt Engineering, PyTorch
+PROFESSIONAL EXPERIENCE
+Software Engineer — Data & Analytics	Jun 2022 – Jul 2024
+Merkle DGS (formerly Ugam Solutions Pvt. Ltd.)	Bengaluru, India
+•	Analyzed and processed large-scale retail datasets using Python and SQL to deliver Digital Shelf Analytics, Competitive Pricing Intelligence, and Catalog Enrichment insights for global retail clients.
+•	Built and maintained 50+ automated data pipelines in Python (Pandas, Selenium, BeautifulSoup) that transformed unstructured retail data into clean, analysis-ready datasets, improving data reliability by 28% and cutting processing time by 21%.
+•	Partnered with cross-functional client teams to translate business questions into analytical requirements, then delivered reports and visualizations that informed pricing, assortment, and merchandising decisions.
+•	Performed root-cause analysis on data quality issues across diverse e-commerce sources, documenting findings and presenting recommendations that led to process improvements adopted across the team.
+•	Achieved 100% on-time delivery with zero critical defects across all client engagements, recognized for clear communication and reliable stakeholder collaboration.
+Graduate Teaching Assistant — Data Science Department	Jun 2025 – Present
+University of Houston – Clear Lake	Houston, TX
+•	Support graduate-level coursework in Big Data, Data Analytics & Machine Learning, and Data Visualization, reinforcing core skills in SQL, Python, Tableau, and statistical analysis.
+•	Evaluate student assignments, projects, and dashboards each semester, providing detailed written feedback that helps students improve analytical reasoning and reporting clarity.
+•	Collaborate with faculty to refine project rubrics and dataset selection, ensuring coursework reflects current industry tools and analytical practices.
+PROJECTS
+U.S. School Finance Equity & Adequacy — Data Visualization Story	Aug 2025 – Dec 2025
+•	Independently led an end-to-end analysis of K-12 finance indicators for 12,000+ U.S. public school districts spanning 14 years (2009–2022), merging the State Indicator Database and the District Cost Database in Python (Pandas, NumPy) into a unified analysis-ready dataset.
+•	Investigated funding adequacy by comparing each district's actual per-pupil spending against the estimated spending required to reach the national-average test-score benchmark, surfacing systemic disparities across regions and demographic groups.
+•	Uncovered a clear data-driven story: districts with higher Hispanic student populations consistently faced larger per-pupil funding gaps, and these gaps strongly correlated with test scores well below the national average — translated findings into a stakeholder-ready presentation and written report.
+•	Designed 10+ interactive and static visualizations across Tableau, Python (Seaborn, Matplotlib, Plotly), and R — including choropleth maps, Sankey diagrams, heatmaps, grouped bar charts, scatter plots, box plots, and histograms — to make multi-state, multi-year patterns intuitive for a non-technical audience.
+•	Tools: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly), R, Tableau
+Socio-Economic & Demographic Drivers of COVID-19 Vaccination — County-Level Analytics	Aug 2024 – Dec 2024
+•	Conducted end-to-end exploratory data analysis on U.S. county-level data using Python (Pandas, NumPy) and SQL to uncover demographic and socio-economic patterns driving vaccine hesitancy.
+•	Built ARIMA time-series forecasting models to project county-level herd-immunity timelines and validated model performance using standard error metrics.
+•	Designed clear, executive-ready visualizations in Matplotlib, Seaborn, and Plotly that translated complex statistical findings into a compelling data-driven narrative for non-technical audiences.
+•	Tools: Python, SQL, Pandas, scikit-learn, ARIMA, Matplotlib, Seaborn, Plotly
+Real-Time Content Summarization Dashboard	Jan 2025 – Feb 2025
+•	Developed an interactive Streamlit web application that summarizes large volumes of unstructured text in real time using GPT-4o-mini, accelerating content review for end users.
+•	Applied prompt engineering and evaluation testing to improve the relevance and coherence of generated summaries on domain-specific content.
+•	Tools: Python, OpenAI API, GPT-4o-mini, Streamlit
+EDUCATION
+Master of Science in Data Science	Aug 2024 – May 2026
+University of Houston – Clear Lake | GPA: 3.78	Houston, TX
+•	Honors: Named 2026 Outstanding Graduate Student in Data Science by the College of Science and Engineering.
+•	Relevant Coursework: Data Analytics & Machine Learning, Big Data, Data Visualization, Statistical Methods, Database Systems
+Bachelor of Engineering in Mechanical Engineering	Aug 2018 – May 2022
+Coimbatore Institute of Technology | GPA: 8.16/10	Coimbatore, India
+CERTIFICATIONS
+•	Google Data Analytics Professional Certificate — Google (Mar 2022)
+•	Data Analysis with Python — IBM (Apr 2022)
+•	SQL (Advanced) — HackerRank (Apr 2022)
