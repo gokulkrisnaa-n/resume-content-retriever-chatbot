@@ -93,6 +93,7 @@ def create_knowledge_base():
         model="gemini-2.5-flash",
         temperature=0,
         max_output_tokens=config.MAX_OUTPUT_TOKENS,
+        thinking_budget=0,  # ← disable reasoning; full 512 budget goes to the answer
     )
 
     # ── Layer 1 (hardened prompt): strict persona + explicit refuse-list ─────
