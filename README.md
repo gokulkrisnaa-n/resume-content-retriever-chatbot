@@ -8,7 +8,7 @@ A RAG (Retrieval-Augmented Generation) chatbot that reads a knowledge document a
 
 ## 🚀 Live Demo
 
-🔗 **[resume-content-retriever-app.azurewebsites.net](https://resume-content-retriever-app.azurewebsites.net/)**
+🔗 **[resume-content-retriever-app.azurewebsites.net](http://resume-content-retriever-aichatbot.azurewebsites.net)**
 
 ---
 
